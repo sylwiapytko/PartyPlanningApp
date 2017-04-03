@@ -1,2 +1,2 @@
 # PartyPlanningApp
-Java application supporting planning of a party. Project done for education purposes. Finished in June 2016
+Java application to assist planning of a party. Project done for education purposes. Finished in June 2016
